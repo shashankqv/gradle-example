@@ -10,5 +10,11 @@ object TestKat {
         println("hey testing")
         println("hey testing")
         println("hey testing")
+        println("hey testing")
+        println("hey testing")
+        println("hey testing")
+        println("hey testing")
+        println("hey testing")
+        println("hey testing")
     }
 }
